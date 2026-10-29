@@ -1,0 +1,1 @@
+Place your complete madras_land_candidates.jsonl file in this folder, or set PRAMALEX_CANDIDATE_JUDGMENTS_PATH to its full path. The existing data/demo/pramalex_corpus_1000.jsonl remains separate and is not overwritten. The original candidate JSONL is read only; the service builds its search index in memory.

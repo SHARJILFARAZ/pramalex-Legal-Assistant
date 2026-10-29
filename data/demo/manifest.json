@@ -1,0 +1,25 @@
+{
+  "dataset_name": "PramaLex Civil and Property Analysis Demonstration Corpus",
+  "record_count": 1000,
+  "record_type": "demonstration scenarios",
+  "coverage": {
+    "jurisdiction_context": "Tamil Nadu / Madras High Court civil-property topics",
+    "topic_count": 20,
+    "district_contexts": 20,
+    "year_contexts": 19
+  },
+  "intended_use": [
+    "UI demonstration",
+    "search/ranking tests",
+    "analysis workflow tests",
+    "evidence-gap output tests"
+  ],
+  "not_intended_for": [
+    "citation as legal authority",
+    "real case outcome claims",
+    "legal advice"
+  ],
+  "authentic_judgment_count": 0,
+  "source_judgment_text_count": 0,
+  "note": "Records are structured demonstration scenarios, not authentic court judgments. Source URLs and judgment text are intentionally absent."
+}
